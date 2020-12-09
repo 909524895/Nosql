@@ -1,0 +1,25 @@
+{
+  "movie1": {
+    "like_counter": 0,
+    "watch_counter" : 0,
+    "hit_counter" : 0
+  },
+
+  "movie2": {
+    "like_counter": 0,
+    "watch_counter" : 0,
+    "hit_counter" : 0
+  },
+
+  "movie3": {
+    "like_counter": 0,
+    "watch_counter" : 0,
+    "hit_counter" : 0
+  },
+
+  "movie4": {
+    "like_counter": 0,
+    "watch_counter" : 0,
+    "hit_counter" : 0
+  }
+}

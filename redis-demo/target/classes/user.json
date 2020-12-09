@@ -1,0 +1,21 @@
+{
+  "user1": {
+    "name": "wwa",
+    "Action" : "watch movie1 1207,like movie1 1207"
+  },
+
+  "user2": {
+    "name": "wwa2",
+    "Action" : "watch movie1 1208,like movie1 1208"
+  },
+
+  "user3": {
+    "name": "wwa3",
+    "Action" : "watch movie1 1111,like movie1 1111,watch movie2 1210"
+  },
+
+  "user4": {
+    "name": "wwa4",
+    "Action" : "watch movie1 1111,like movie1 1111"
+  }
+}
